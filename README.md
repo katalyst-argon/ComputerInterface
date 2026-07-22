@@ -1,2 +1,3 @@
 # ComputerInterface
 What everyones been wanting...
+<img width="794" height="504" alt="image" src="https://github.com/user-attachments/assets/304f3d4f-9aee-4a2a-b532-6559fa792fa8" />
