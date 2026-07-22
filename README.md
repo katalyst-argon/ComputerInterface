@@ -4,13 +4,13 @@ Computer Interface is a library for Gorilla Tag which replaces the base computer
 
 # Main project contributors:
 
-ToniMacaroni
-Graic
-Dev
-A Haunted Army
-Fchb1239
-DecalFree
-exo
+- ToniMacaroni
+- Graic
+- Dev
+- A Haunted Army
+- Fchb1239
+- DecalFree
+- exo
 
 # Table of Contents
 - Install
