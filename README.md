@@ -1,4 +1,4 @@
-# This project has been archived due to AA hating on ComputerInterface and combining the shitty in-game monitor with other meshes. Fuck you AA.
+FUCK ANOTHER AXIOM
 # Computer Interface
 Computer Interface is a library for Gorilla Tag which replaces the base computer with a custom computer, and allows developers to add functionality to it.
 
